@@ -1,0 +1,9 @@
+{
+  "name": "token-streak",
+  "version": "1.0.0",
+  "description": "Bring back your Claude Code streak and token stats: a band above the prompt and a panel with your streak, weekly dots, token chart and activity heatmap.",
+  "author": { "name": "Jacobo Villada" },
+  "homepage": "https://github.com/Jacobovillada/token-streak",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
